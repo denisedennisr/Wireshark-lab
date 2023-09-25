@@ -6,7 +6,10 @@ In this scenario, I am a security analyst investigating traffic to a website.
 Throughout this lab I use Wireshark to inspect packet data and apply filters to sort through packet information efficiently. I’ll analyze a network packet capture file that contains traffic data related to a user connecting to an internet site. I'll apply data filters in order to identify the source and destination IP addresses involved in this web browsing session, examine the protocols that are used when the user makes the connection to the website, and analyze some of the data packets to identify the type of information sent and received by the systems that connect to each other when the network data is captured.
 <br />
 <h2>Explore data with Wireshark</h2>
-In this task, I have to open a network packet capture file that contains data captured from a system making web requests to a site. I will use Wireshark to open this data and gain a better understanding of how it is presented within the application.
+In this task, I have to open a network packet capture file that contains data captured from a system making web requests to a site. I will use Wireshark to open this data and gain a better understanding of how it is presented within the application. 
+<br/>
+<br>
+
 <img src="https://imgur.com/w3mefRL.png" height="80%" width="80%" alt="Wireshark pcap"/>
 
 <h2>Apply a basic Wireshark filter and inspect a packet</h2>
